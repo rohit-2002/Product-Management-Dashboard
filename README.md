@@ -28,7 +28,7 @@ The system uses Laravel for backend functionality, AJAX for real-time updates, a
    DB_CONNECTION=mysql
    DB_HOST=localhost
    DB_PORT=3306
-   DB_DATABASE=Laravel Task 2
+   DB_DATABASE=Product-Management-Dashboard
    DB_USERNAME=root
    DB_PASSWORD=yourpassword
 
